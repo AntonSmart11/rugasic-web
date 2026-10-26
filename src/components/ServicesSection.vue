@@ -105,7 +105,7 @@
           to="/contacto"
           class="bg-brand-mustard hover:brightness-105 text-slate-950 font-bold text-xs sm:text-sm px-6 py-3 rounded-lg shadow-xs transition-all whitespace-nowrap"
         >
-          Contactar a ingeniería
+          Contactar con personal
         </RouterLink>
       </div>
     </div>

@@ -206,29 +206,6 @@
         </div>
       </div>
     </section>
-
-    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20">
-      <div
-        class="bg-brand-dark text-white rounded-2xl p-8 sm:p-12 flex flex-col md:flex-row items-center justify-between gap-6 border-l-4 border-brand-mustard"
-      >
-        <div>
-          <h2 class="text-xl sm:text-2xl font-bold">
-            ¿Desea validar nuestra capacidad técnica o visitar nuestro taller?
-          </h2>
-          <p class="text-xs sm:text-sm text-slate-400 mt-1 max-w-2xl">
-            Podemos coordinar una reunión técnica o enviarle nuestro dossier
-            corporativo con referencias comerciales.
-          </p>
-        </div>
-
-        <RouterLink
-          to="/contacto"
-          class="bg-brand-mustard hover:brightness-105 text-brand-dark font-bold text-xs sm:text-sm px-7 py-3.5 rounded-lg transition-all whitespace-nowrap"
-        >
-          Contactar con Nosotros
-        </RouterLink>
-      </div>
-    </section>
   </main>
 </template>
 
